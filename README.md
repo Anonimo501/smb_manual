@@ -12,13 +12,13 @@ Es un simple script que ejecuta smbmap y samclient.
 
 ## Uso
 
-git clone https://github.com/Anonimo501/hydra_brute-force.git
+git clone https://github.com/Anonimo501/smb_manual.git
 
-cd hydra_brute-force/
+cd smb_manual/
 
-chmod +x hydra_brute-force.sh
+chmod +x smb_manual.sh
 
-./hydra_brute-force.sh
+./smb_manual.sh
 
 
 # Referencias
